@@ -1,0 +1,88 @@
+
+body{
+	background:url("imagenes/fondo.jpg") 0 0 repeat-x;
+}
+div ul li{
+	width: auto;
+	height: 15px;
+	background: rgba(82,172,205,0.4);
+	color:gold;	
+	float:left;
+	font-size: 30px;
+	list-style: none;
+	padding: 30px;
+	
+	margin-left: 15px;
+	border-radius: 10px;
+
+
+}
+h2{
+	font-size: 2em;
+	box-shadow: 10px;
+	color: skyblue;
+	padding-top: 5%;
+}
+.logo{
+	clear: both;
+	
+}
+#cabecera{
+	margin-bottom: 10px;
+	margin-left: 40px;
+
+	padding-left:50%;
+}
+a:link{
+	text-decoration: none;
+}
+div img{
+	
+	height: 300px;
+	float: left;
+	margin-left: 10px;
+}
+
+.clear{
+	clear: both;
+}
+ 
+.mensa{
+	height: 50px;
+}
+#form{
+	 max-width: 300px;
+  	 padding: 15px,30px;
+  	 margin: 0 auto;
+  	 background: coral;
+
+}
+ #sombra {
+  	 max-width: 340px;
+  	 box-shadow: 0px 0px 18px 0px rgba(48,50,50,0.48);
+  	 border-radius:  6%;
+  	 padding-left: 150px;
+  }
+  h3{
+  	font-size: 20px;
+  }
+
+  p{
+  	padding-left: 30px;
+  	margin-right: 700px;
+  	font-size: 1.5em;
+  }
+
+  #logo{
+  	padding-top: 10px;
+  		max-height: 50px;
+  }
+
+  img{
+  	height: 250px;
+  }
+  legend{
+  	font-size: 2em;
+  	font-style: bold;
+  	color: #FFF;
+  }
